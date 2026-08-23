@@ -130,6 +130,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0709-to-lower-case) |
+| [1927-sum-game](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bracket Sequences
@@ -150,6 +151,7 @@
 | [0633-sum-of-square-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1510-stone-game-iv](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -233,6 +235,7 @@
 | [0410-split-array-largest-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
 | [1386-cinema-seat-allocation](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2029-stone-game-ix) |
 ## Queue
 |  |
@@ -262,6 +265,7 @@
 | ------- |
 | [1510-stone-game-iv](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
