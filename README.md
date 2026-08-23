@@ -103,6 +103,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
@@ -305,6 +306,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
