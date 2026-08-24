@@ -44,6 +44,7 @@
 | [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1872-stone-game-viii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -153,6 +154,7 @@
 | [0633-sum-of-square-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1510-stone-game-iv](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -200,6 +202,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1872-stone-game-viii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Enumeration
 |  |
@@ -231,6 +234,7 @@
 | [0509-fibonacci-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0509-fibonacci-number) |
 | [1510-stone-game-iv](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
 | ------- |
@@ -263,12 +267,14 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -284,6 +290,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2029-stone-game-ix) |
 ## Newton's Method
 |  |
