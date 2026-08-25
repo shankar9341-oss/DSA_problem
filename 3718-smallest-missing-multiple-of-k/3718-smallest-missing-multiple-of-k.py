@@ -1,7 +1,7 @@
 class Solution:
     def missingMultiple(self, nums: List[int], k: int) -> int:
-        nums = set(nums)
+        sett = set(nums)
         curr = k
-        while curr in nums:
+        while curr in sett:
             curr += k
         return curr
