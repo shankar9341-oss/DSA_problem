@@ -326,11 +326,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
