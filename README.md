@@ -110,6 +110,7 @@
 | [0680-valid-palindrome-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Quicksort
 |  |
 | ------- |
