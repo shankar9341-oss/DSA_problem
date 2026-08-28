@@ -113,6 +113,7 @@
 | [0680-valid-palindrome-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
@@ -122,6 +123,7 @@
 | [0155-min-stack](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0496-next-greater-element-i) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 | [0141-linked-list-cycle](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
