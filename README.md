@@ -345,6 +345,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -354,6 +355,7 @@
 | [0002-add-two-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
