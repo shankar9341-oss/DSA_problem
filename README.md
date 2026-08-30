@@ -47,6 +47,7 @@
 | [1872-stone-game-viii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -266,6 +267,7 @@
 | [1386-cinema-seat-allocation](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Queue
 |  |
