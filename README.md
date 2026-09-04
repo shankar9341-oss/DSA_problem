@@ -63,6 +63,7 @@
 | [3731-find-missing-elements](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1872-stone-game-viii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [3903-smallest-stable-index-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
