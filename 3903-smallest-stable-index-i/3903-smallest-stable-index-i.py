@@ -1,5 +1,6 @@
 class Solution:
     def firstStableIndex(self, nums: list[int], k: int) -> int:
+
         for i in range(len(nums)):
             maxx = -inf
             minn = inf
