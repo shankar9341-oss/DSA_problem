@@ -1,12 +1,20 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hashmap = {}
+
+        map = {}
         for i,n in enumerate(nums):
-            sum1 = target - n
-            if sum1 in hashmap:
-                return [hashmap[sum1], i]
-            hashmap[n] = i
-        
+            total = target - n
+            if total in map:
+                return [map[total], i]
+            map[n] = i
+
+
+
+
+
+
+
+
                 
         
                 
