@@ -153,6 +153,7 @@
 | [0020-valid-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0205-isomorphic-strings) |
@@ -268,6 +269,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0152-maximum-product-subarray) |
