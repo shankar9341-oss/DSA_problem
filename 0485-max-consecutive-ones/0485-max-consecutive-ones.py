@@ -5,7 +5,6 @@ class Solution:
         for i in range(len(nums)):
             if nums[i] == 1:
                 curr_count += 1
-                i += 1
             else:
                 max_count = max(max_count, curr_count)
                 curr_count = 0
