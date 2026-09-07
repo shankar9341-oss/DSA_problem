@@ -163,6 +163,7 @@
 | [0680-valid-palindrome-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1927-sum-game](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
