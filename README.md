@@ -162,6 +162,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0709-to-lower-case) |
+| [0940-distinct-subsequences-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -275,6 +276,7 @@
 | [0152-maximum-product-subarray](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1872-stone-game-viii) |
