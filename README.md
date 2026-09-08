@@ -194,6 +194,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
