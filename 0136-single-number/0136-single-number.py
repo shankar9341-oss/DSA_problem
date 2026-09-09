@@ -5,7 +5,7 @@ class Solution:
         #     if nums[i] != nums[i-1]:
         #         return nums[i-1]
         # return nums[len(nums)-1]
-        start = 0
-        for i in nums:
-            start ^= i
-        return start
+        result = 0
+        for n in nums:
+            result ^= n
+        return result
