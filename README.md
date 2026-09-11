@@ -40,6 +40,7 @@
 | [0724-find-pivot-index](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1386-cinema-seat-allocation](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1386-cinema-seat-allocation) |
@@ -85,6 +86,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -234,6 +236,7 @@
 | [0219-contains-duplicate-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
