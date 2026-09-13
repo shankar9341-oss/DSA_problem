@@ -38,6 +38,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0904-fruit-into-baskets) |
@@ -454,5 +455,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
