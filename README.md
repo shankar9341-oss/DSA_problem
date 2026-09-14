@@ -193,6 +193,7 @@
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1872-stone-game-viii) |
@@ -457,4 +458,8 @@
 | ------- |
 | [0835-image-overlap](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
