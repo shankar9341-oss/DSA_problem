@@ -32,6 +32,7 @@
 | [0228-summary-ranges](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0485-max-consecutive-ones) |
@@ -133,6 +134,7 @@
 | [0189-rotate-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
@@ -221,6 +223,7 @@
 | [0162-find-peak-element](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0633-sum-of-square-numbers) |
@@ -235,6 +238,7 @@
 | ------- |
 | [0136-single-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -332,6 +336,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
 | ------- |
@@ -472,4 +477,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0836-rectangle-overlap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
