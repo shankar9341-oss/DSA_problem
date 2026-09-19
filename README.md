@@ -205,6 +205,7 @@
 | [0509-fibonacci-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -486,6 +487,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Pigeonhole Principle
 |  |
 | ------- |
