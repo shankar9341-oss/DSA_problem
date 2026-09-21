@@ -1,5 +1,6 @@
 class Solution:
     def resultArray(self, nums: List[int], k: int) -> List[int]:
+
         ans = [[0] * k for _ in range(len(nums))]
 
         for i in range(len(nums)):
