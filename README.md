@@ -212,6 +212,7 @@
 | [0007-reverse-integer](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
@@ -323,6 +324,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -458,6 +460,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
