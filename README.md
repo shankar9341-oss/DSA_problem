@@ -97,6 +97,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -121,6 +122,7 @@
 | [0242-valid-anagram](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
+| [1096-brace-expansion-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -163,6 +165,7 @@
 | [0155-min-stack](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0496-next-greater-element-i) |
+| [1096-brace-expansion-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -187,6 +190,7 @@
 | [0680-valid-palindrome-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1927-sum-game](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1927-sum-game) |
@@ -496,6 +500,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -511,4 +516,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
