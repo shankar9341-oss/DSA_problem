@@ -52,6 +52,7 @@
 | [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1872-stone-game-viii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -102,6 +103,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -192,6 +194,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1927-sum-game](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
