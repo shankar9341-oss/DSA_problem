@@ -169,6 +169,7 @@
 | [0496-next-greater-element-i](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -196,6 +197,7 @@
 | [1096-brace-expansion-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1927-sum-game](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1927-sum-game) |
@@ -211,6 +213,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
 | ------- |
