@@ -8,7 +8,7 @@ class Solution:
         idx = 0
         def swapping(idx, j):
             nums[idx], nums[j] = nums[j], nums[idx]
-            
+
         while idx <= right:
             if nums[idx] == 0:
                 swapping(left, idx)
