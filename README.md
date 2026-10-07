@@ -197,6 +197,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -538,6 +539,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -560,5 +562,6 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
