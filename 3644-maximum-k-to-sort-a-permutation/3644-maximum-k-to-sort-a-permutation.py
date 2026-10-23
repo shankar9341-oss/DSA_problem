@@ -2,6 +2,7 @@ class Solution:
     def sortPermutation(self, nums: List[int]) -> int:
         res = 0
         ans = False
+        
         for i in range(len(nums)):
             if nums[i] == i:
                 continue
