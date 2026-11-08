@@ -2,6 +2,7 @@ class Solution:
     def countServers(self, grid: list[list[int]]) -> int:
         n = len(grid)
         m = len(grid[0])
+        
         row = defaultdict(set)
         col = defaultdict(set)
 
