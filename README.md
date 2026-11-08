@@ -51,6 +51,7 @@
 | [0904-fruit-into-baskets](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1267-count-servers-that-communicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1386-cinema-seat-allocation](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1563-stone-game-v) |
@@ -464,6 +465,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Floyd's Cycle Finding Algorithm
@@ -573,6 +575,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -602,6 +605,7 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -620,12 +624,14 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/shankar9341-oss/Complete-DSA/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/shankar9341-oss/Complete-DSA/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shankar9341-oss/Complete-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shankar9341-oss/Complete-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
